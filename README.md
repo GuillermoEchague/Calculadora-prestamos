@@ -13,7 +13,7 @@
 ## Instalación
 
 ```
-npx react-native init cotizador prestamos
+npx react-native init cotizadorprestamos
 yarn
 code . (Visual Studio)
 ```
@@ -23,4 +23,10 @@ code . (Visual Studio)
 ```
 npx react-native run-ios
 npx react-native run-android
+```
+
+## Dependencias
+
+```
+npm i react-native-picker-select
 ```
